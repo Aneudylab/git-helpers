@@ -1,0 +1,1 @@
+ga web,common,csharp,visualstudio > .gitattributes

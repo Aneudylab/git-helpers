@@ -1,0 +1,1 @@
+gi vim,node,csharp,windows,visualstudio,visualstudiocode > .gitignore
